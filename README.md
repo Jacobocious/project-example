@@ -1,5 +1,3 @@
-### [Youtube Walkthrough](https://youtu.be/cdgZPsAyLbk)
-
 ## Project Overview
 
 This project is a simulation that represents the behavior of several entities such as
